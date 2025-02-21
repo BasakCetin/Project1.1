@@ -1,0 +1,14 @@
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\bin\Debug\net8.0\ödev2.exe
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\bin\Debug\net8.0\ödev2.deps.json
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\bin\Debug\net8.0\ödev2.runtimeconfig.json
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\bin\Debug\net8.0\ödev2.dll
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\bin\Debug\net8.0\ödev2.pdb
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\obj\Debug\net8.0\ödev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\obj\Debug\net8.0\ödev2.AssemblyInfoInputs.cache
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\obj\Debug\net8.0\ödev2.AssemblyInfo.cs
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\obj\Debug\net8.0\ödev2.csproj.CoreCompileInputs.cache
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\obj\Debug\net8.0\ödev2.dll
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\obj\Debug\net8.0\refint\ödev2.dll
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\obj\Debug\net8.0\ödev2.pdb
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\obj\Debug\net8.0\ödev2.genruntimeconfig.cache
+C:\Users\BASAK\Desktop\.NET\ödev2\ödev2\obj\Debug\net8.0\ref\ödev2.dll
